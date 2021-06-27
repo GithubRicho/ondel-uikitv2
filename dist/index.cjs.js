@@ -2163,11 +2163,6 @@ var links = [
         href: "/syrup",
     },
     {
-        label: "BBKFI houses",
-        icon: "BbkfihousesIcon",
-        href: "/bbkfi-houses",
-    },
-    {
         label: "Lottery",
         icon: "TicketIcon",
         href: "/lottery",
@@ -2178,71 +2173,12 @@ var links = [
         href: "/nft",
     },
     {
-        label: "Profile & Teams",
-        icon: "GroupsIcon",
-        items: [
-            {
-                label: "Leaderboard",
-                href: "/",
-            },
-            {
-                label: "YourProfile",
-                href: "/",
-            },
-        ],
-        calloutClass: "rainbow",
-    },
-    {
-        label: "Info",
-        icon: "InfoIcon",
-        items: [
-            {
-                label: "Overview",
-                href: "https://pancakeswap.info",
-            },
-            {
-                label: "Tokens",
-                href: "https://pancakeswap.info/tokens",
-            },
-            {
-                label: "Pairs",
-                href: "https://pancakeswap.info/pairs",
-            },
-            {
-                label: "Accounts",
-                href: "https://pancakeswap.info/accounts",
-            },
-        ],
-    },
-    {
-        label: "IFO",
-        icon: "IfoIcon",
-        items: [
-            {
-                label: "Next",
-                href: "/ifo",
-            },
-            {
-                label: "History",
-                href: "/ifo/history",
-            },
-        ],
-    },
-    {
         label: "More",
         icon: "MoreIcon",
         items: [
-            // {
-            //   label: "Voting",
-            //   href: "https://voting.pancakeswap.finance",
-            // },
             {
                 label: "Github",
-                href: "https://github.com/bitblocksproject/",
-            },
-            {
-                label: "Docs",
-                href: "https://bbfi.gitbook.io/bitblocks-finance/",
+                href: "https://github.com/ondelondel/",
             },
         ],
     },
@@ -2254,26 +2190,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/bitblocksfinace",
-            },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            {
-                label: "Portuguese (br)",
-                href: "https://t.me/bitblocksfinancebrasil",
+                href: "/",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/BitBlocksANN",
+                href: "/",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/BBKFI",
+        href: "https://twitter.com/bataviaondel",
     },
 ];
 var MENU_HEIGHT = 64;

@@ -2225,12 +2225,12 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/ondelondel/",
+                href: "https://github.com/bitblocksproject/",
             },
-            // {
-            //     label: "Docs",
-            //     href: "https://bbfi.gitbook.io/bitblocks-finance/",
-            // },
+            {
+                label: "Docs",
+                href: "https://bbfi.gitbook.io/bitblocks-finance/",
+            },
         ],
     },
 ];

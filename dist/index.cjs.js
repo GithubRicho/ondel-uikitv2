@@ -2256,18 +2256,6 @@ var socials = [
                 label: "English",
                 href: "/",
             },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            // {
-            //     label: "Portuguese (br)",
-            //     href: "https://t.me/bitblocksfinancebrasil",
-            // },
-            // {
-            //     label: "Announcements",
-            //     href: "https://t.me/BitBlocksANN",
-            // },
         ],
     },
     {

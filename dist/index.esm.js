@@ -2241,26 +2241,26 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/bitblocksfinace",
+                href: "/",
             },
             // {
             //   label: "Bahasa Indonesia",
             //   href: "https://t.me/PancakeSwapIndonesia",
             // },
-            {
-                label: "Portuguese (br)",
-                href: "https://t.me/bitblocksfinancebrasil",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/BitBlocksANN",
-            },
+            // {
+            //     label: "Portuguese (br)",
+            //     href: "https://t.me/bitblocksfinancebrasil",
+            // },
+            // {
+            //     label: "Announcements",
+            //     href: "https://t.me/BitBlocksANN",
+            // },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/BBKFI",
+        href: "https://twitter.com/bataviaondel",
     },
 ];
 var MENU_HEIGHT = 64;
